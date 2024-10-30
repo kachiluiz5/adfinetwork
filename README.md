@@ -1,10 +1,10 @@
 # Adfi network
 
 ## Project Overview
-Adfy is an AI-driven ad network built on the Stacks blockchain, designed to provide secure and efficient ad management with decentralized transparency and intelligent targeting. This project leverages Revive Adserver and integrates Clarity smart contracts for blockchain-based functionality.
+Adfi is an AI-powered display ads network built on the Stacks blockchain, designed to provide secure and efficient ad management with decentralized transparency and intelligent targeting. This project leverages Revive Adserver and integrates Clarity smart contracts for blockchain-based payment functionality.
 
 ## Features
-- AI-powered ad targeting and fraud detection
+- AI-powered contextual ad targeting and fraud detection
 - Clarity smart contracts for ad transactions and escrow
 - Decentralized data storage and user privacy protection
 - Advanced analytics for advertisers and publishers
